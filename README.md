@@ -7,7 +7,7 @@ El objetivo es transformar datos transaccionales de ventas en **información est
 El dataset utilizado proviene de Kaggle:  
 **“Datasets para Proyecto BI – Análisis de Ventas”**
 
----
+--- 
 
 ## Objetivos del proyecto
 - Construir un modelo de datos óptimo en Excel
@@ -15,6 +15,21 @@ El dataset utilizado proviene de Kaggle:
 - Implementar medidas DAX reales, no cálculos manuales
 - Diseñar un dashboard interactivo y completamente dinámico
 - Simular un flujo de trabajo similar a herramientas como Power BI
+
+---
+
+
+## 📁 Estructura del repositorio
+
+**Informe ejecutivo:** Presenta las conclusiones del análisis, estas fueron elaboradas a partir de un modelo BI optimizado y están orientadas a la toma de decisiones.
+
+🔗 [Ver informe ejecutivo completo](docs/Informe_Ejecutivo_BI.pdf)
+
+**Dashboard ventas:** Muestra el comportamiento de las ventas a través del tiempo y las KPIs principales
+
+**Dashboard categorías:** Muestra el comportamiento de las ventas según las categorías y los productos
+
+**Modelado:** Muestra el modelo de datos, este sigue un esquema estrella
 
 ---
 
@@ -168,9 +183,6 @@ No es un reporte estático, sino un **modelo analítico reutilizable y escalable
 
 ---
 
-## 📁 Estructura del repositorio
-
----
 
 ## 👤 Créditos
 Proyecto desarrollado por **Fernando David Carela Pichardo**
