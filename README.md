@@ -23,8 +23,6 @@ El dataset utilizado proviene de Kaggle:
 
 **Informe ejecutivo:** Presenta las conclusiones del análisis, estas fueron elaboradas a partir de un modelo BI optimizado y están orientadas a la toma de decisiones.
 
-🔗 [Ver informe ejecutivo completo](docs/Informe_Ejecutivo_BI.pdf)
-
 **Dashboard ventas:** Muestra el comportamiento de las ventas a través del tiempo y las KPIs principales
 
 **Dashboard categorías:** Muestra el comportamiento de las ventas según las categorías y los productos
